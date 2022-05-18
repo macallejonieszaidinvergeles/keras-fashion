@@ -1,1 +1,3 @@
 https://medium.com/analytics-vidhya/image-classification-with-django-deployment-d18dfc224270
+
+https://colab.research.google.com/drive/107mstbby_AayNRpT9QMJacNyJCVmfgKg?usp=sharing
