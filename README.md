@@ -1,3 +1,3 @@
 # keras-fashion
 
-Proyecto para el reconcimiento de prendas, subiendo una imagen.
+Proyecto para el reconocimiento de ropa de vestir, subiendo una imagen.
